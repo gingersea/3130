@@ -5,6 +5,17 @@ Study materials generated from the lecture PDFs in this repository
 
 ## Contents
 
+### Lec 6–7 中文复习包
+
+新增 [Lec 6–7 复习包](review/README.md)：两讲复习笔记、18 道逐步例题、8 道自测及答案，附课件页码与易错点。
+
+- [Lec 6 笔记：文法化简、CNF/GNF、CYK](review/lec6_notes.md)
+- [Lec 7 笔记：PDA、CFG 互转、DPDA/DCFL](review/lec7_notes.md)
+- [例题与自测](review/worked_examples.md)
+- [合并打印版 PDF](review/lec6_7_review.pdf)
+
+### Existing study materials
+
 | File | Description |
 |------|-------------|
 | `cheatsheet.pdf` | **Full-coverage midterm cheat sheet** (A4 landscape, 9pt, 3 columns, 4 pages — print double-sided as 2 sheets). Covers all knowledge points of Lectures 1–6 (Chapters 1–6): sets/functions/relations/graphs, proof techniques, languages & grammars, DFA/NFA + subset construction, state minimization, regular expressions & GTG elimination, regular grammars, closure properties & decision questions, the Pumping Lemma with worked examples, context-free grammars, parsing & ambiguity, grammar transformations, Chomsky & Greibach normal forms, and the CYK algorithm. Hard points (subset construction, GTG elimination, pumping lemma games, CNF conversion, CYK, …) are worked out step by step. |
